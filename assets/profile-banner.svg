@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Salman Mohebi — Scientific Machine Learning</title>
+  <desc id="desc">Senior Data Scientist at the Swiss Data Science Center, ETH Zurich. Machine learning for complex physical systems. A dark blue banner with an abstract scientific field in teal and blue.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#142d46"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5eead4"/>
+      <stop offset="1" stop-color="#60a5fa"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#94a3b8" stroke-opacity="0.055"/>
+    </pattern>
+    <clipPath id="bounds"><rect width="1200" height="320" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="1200" height="320" fill="url(#background)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+    <ellipse cx="1000" cy="160" rx="310" ry="260" fill="url(#glow)"/>
+    <g transform="translate(990 160)" fill="none" stroke="url(#accent)">
+      <circle r="116" stroke-opacity="0.38"/>
+      <ellipse rx="116" ry="44" stroke-opacity="0.27"/>
+      <ellipse rx="116" ry="83" stroke-opacity="0.27"/>
+      <ellipse rx="44" ry="116" stroke-opacity="0.27"/>
+      <ellipse rx="83" ry="116" stroke-opacity="0.27"/>
+      <path d="M-116 0H116M0-116V116" stroke-opacity="0.22"/>
+      <ellipse rx="156" ry="55" transform="rotate(-30)" stroke-opacity="0.55"/>
+      <path d="M-176 65C-139 65-140 24-106 24S-73 83-38 83-2-20 32-20 65 22 101 22 137-60 174-60" stroke-width="2" stroke-opacity="0.75"/>
+      <g fill="#5eead4" stroke="none">
+        <circle cx="-106" cy="24" r="3.5"/>
+        <circle cx="32" cy="-20" r="3.5"/>
+        <circle cx="101" cy="22" r="3.5"/>
+        <circle cx="-135" cy="78" r="4"/>
+      </g>
+    </g>
+    <rect x="56" y="55" width="48" height="4" rx="2" fill="url(#accent)"/>
+    <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+      <text x="56" y="119" fill="#f8fafc" font-size="52" font-weight="700" letter-spacing="-1">Salman Mohebi</text>
+      <text x="58" y="163" fill="#5eead4" font-size="23" font-weight="500">Machine learning for complex physical systems</text>
+      <text x="58" y="205" fill="#cbd5e1" font-size="18">Senior Data Scientist · Swiss Data Science Center, ETH Zurich</text>
+      <text x="58" y="261" fill="#94a3b8" font-size="12" letter-spacing="1.4">FOUNDATION MODELS · GENERATIVE MODELLING · SCIENTIFIC COMPUTING</text>
+    </g>
+    <rect y="316" width="1200" height="4" fill="url(#accent)"/>
+  </g>
+</svg>
