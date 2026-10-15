@@ -69,9 +69,8 @@ My work connects **model development, scientific evaluation, and ML engineering*
 <h3>ECOCLIM</h3>
 <p><strong>Bringing ecological information into climate downscaling.</strong></p>
 <p>I work on climate downscaling informed by ecological data, in collaboration with WSL and the University of Bern.</p>
-<!-- ECOCLIM: paste your project URL into the empty href below when ready. -->
 <p>
-<a href="" title="ECOCLIM project"><img src="assets/icons/project.svg" width="16" height="16" alt="" align="absmiddle"> Project</a></p>
+<a href="https://www.datascience.ch/projects/ecoclim" title="ECOCLIM project"><img src="assets/icons/project.svg" width="16" height="16" alt="" align="absmiddle"> Project</a></p>
 </td>
 </tr>
 </table>
