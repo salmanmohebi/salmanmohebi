@@ -26,6 +26,14 @@ My work connects **model development, scientific evaluation, and ML engineering*
 <table>
 <tr>
 <td width="50%" valign="top">
+<p><sub>CLIMATE DOWNSCALING · ECOLOGICAL DATA</sub></p>
+<h3>ECOCLIM</h3>
+<p><strong>Bringing ecological information into climate downscaling.</strong></p>
+<p>I work on climate downscaling informed by ecological data, in collaboration with WSL and the University of Bern.</p>
+<p>
+<a href="https://www.datascience.ch/projects/ecoclim" title="ECOCLIM project"><img src="assets/icons/project.svg" width="16" height="16" alt="" align="absmiddle"> Project</a></p>
+</td>
+<td width="50%" valign="top">
 <p><sub>EARTH-SYSTEM FORECASTING · FOUNDATION MODELS</sub></p>
 <h3>ESFM</h3>
 <p><strong>Learning across observations and simulations.</strong></p>
@@ -36,6 +44,8 @@ My work connects **model development, scientific evaluation, and ML engineering*
 &nbsp;·&nbsp;
 <a href="https://arxiv.org/abs/2605.00850" title="ESFM preprint on arXiv"><img src="https://cdn.simpleicons.org/arxiv/B31B1B" width="16" height="16" alt="" align="absmiddle"> Preprint</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <p><sub>SEISMOLOGY · GENERATIVE MODELLING</sub></p>
 <h3>HighFEM / TQDNEs</h3>
@@ -49,8 +59,6 @@ My work connects **model development, scientific evaluation, and ML engineering*
 &nbsp;·&nbsp;
 <a href="https://www.datascience.ch/projects/highfem" title="HighFEM project at SDSC"><img src="assets/icons/project.svg" width="16" height="16" alt="" align="absmiddle"> Project</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <p><sub>ATMOSPHERIC PHYSICS · PHYSICS-INFORMED ML</sub></p>
 <h3>piDLRad / DeepCloud</h3>
@@ -63,14 +71,6 @@ My work connects **model development, scientific evaluation, and ML engineering*
 <a href="https://doi.org/10.1029/2025MS004956" title="piDLRad research paper"><img src="https://cdn.simpleicons.org/doi/64748B" width="16" height="16" alt="" align="absmiddle"> Paper</a>
 &nbsp;·&nbsp;
 <a href="https://doi.org/10.3929/ethz-b-000721647" title="ICON simulation dataset"><img src="https://cdn.simpleicons.org/doi/64748B" width="16" height="16" alt="" align="absmiddle"> Dataset</a></p>
-</td>
-<td width="50%" valign="top">
-<p><sub>CLIMATE DOWNSCALING · ECOLOGICAL DATA</sub></p>
-<h3>ECOCLIM</h3>
-<p><strong>Bringing ecological information into climate downscaling.</strong></p>
-<p>I work on climate downscaling informed by ecological data, in collaboration with WSL and the University of Bern.</p>
-<p>
-<a href="https://www.datascience.ch/projects/ecoclim" title="ECOCLIM project"><img src="assets/icons/project.svg" width="16" height="16" alt="" align="absmiddle"> Project</a></p>
 </td>
 </tr>
 </table>
